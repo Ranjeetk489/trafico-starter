@@ -1,9 +1,5 @@
 import Image from "next/image";
-
-
 import { motion } from "framer-motion";
-
-
 import { fadeInUp, fadeInDown, staggerTextContainer } from "../variants";
 
 const About = ({ aboutData }) => {

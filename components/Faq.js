@@ -2,11 +2,7 @@ import Image from "next/image";
 
 // import components
 import Accordion from "./Accordion";
-
-// import motion
 import { motion } from "framer-motion";
-
-// import variants
 import {
   fadeInLeft,
   fadeInRight,
