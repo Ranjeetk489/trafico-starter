@@ -1,5 +1,10 @@
+
+
 const Copyright = () => {
-  return <div>Copyright</div>;
+  
+  return (
+    <></>
+  )
 };
 
 export default Copyright;
